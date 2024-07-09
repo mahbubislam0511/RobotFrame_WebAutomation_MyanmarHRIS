@@ -1,0 +1,4 @@
+1. Frequent Method Optimization.
+2. Implement implicit wait and explicit wait.
+3. Data source uses from excel or csv.
+4. Dropdown should be proper optimization.
